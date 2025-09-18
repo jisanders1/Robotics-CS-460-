@@ -43,7 +43,6 @@ def main(args=None):
             rclpy.spin(circle_controller) # Starts turtle
     except (KeyboardInterrupt):
         circle_controller.destroy_node()
-        rclpy.shutdown()
 
 if __name__ == '__main__':
     main()
