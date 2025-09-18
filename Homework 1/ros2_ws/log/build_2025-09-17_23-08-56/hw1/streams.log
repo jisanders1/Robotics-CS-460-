@@ -1,0 +1,25 @@
+[1.238s] Invoking command in '/home/jaylon132435/ros2_ws/build/hw1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaylon132435/ros2_ws/build/hw1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaylon132435/ros2_ws/build/hw1/build --no-deps symlink_data
+[1.707s] running develop
+[1.987s] running egg_info
+[1.987s] creating hw1.egg-info
+[2.015s] writing hw1.egg-info/PKG-INFO
+[2.015s] writing dependency_links to hw1.egg-info/dependency_links.txt
+[2.015s] writing entry points to hw1.egg-info/entry_points.txt
+[2.015s] writing requirements to hw1.egg-info/requires.txt
+[2.016s] writing top-level names to hw1.egg-info/top_level.txt
+[2.016s] writing manifest file 'hw1.egg-info/SOURCES.txt'
+[2.069s] reading manifest file 'hw1.egg-info/SOURCES.txt'
+[2.070s] writing manifest file 'hw1.egg-info/SOURCES.txt'
+[2.097s] running build_ext
+[2.100s] Creating /home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages/hw1.egg-link (link to .)
+[2.101s] Installing circle script to /home/jaylon132435/ros2_ws/install/hw1/lib/hw1
+[2.101s] Installing listener script to /home/jaylon132435/ros2_ws/install/hw1/lib/hw1
+[2.101s] 
+[2.102s] Installed /home/jaylon132435/ros2_ws/build/hw1
+[2.102s] running symlink_data
+[2.102s] creating /home/jaylon132435/ros2_ws/install/hw1/share/ament_index
+[2.102s] creating /home/jaylon132435/ros2_ws/install/hw1/share/ament_index/resource_index
+[2.102s] creating /home/jaylon132435/ros2_ws/install/hw1/share/ament_index/resource_index/packages
+[2.102s] symbolically linking /home/jaylon132435/ros2_ws/build/hw1/resource/hw1 -> /home/jaylon132435/ros2_ws/install/hw1/share/ament_index/resource_index/packages
+[2.102s] symbolically linking /home/jaylon132435/ros2_ws/build/hw1/package.xml -> /home/jaylon132435/ros2_ws/install/hw1/share/hw1
+[2.198s] Invoked command in '/home/jaylon132435/ros2_ws/build/hw1' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaylon132435/ros2_ws/build/hw1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaylon132435/ros2_ws/build/hw1/build --no-deps symlink_data

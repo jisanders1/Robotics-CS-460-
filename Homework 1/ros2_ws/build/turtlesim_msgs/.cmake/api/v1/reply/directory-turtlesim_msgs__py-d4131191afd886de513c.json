@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "turtlesim_msgs__py",
+		"source" : "/home/jaylon132435/ros2_ws/build/turtlesim_msgs/turtlesim_msgs__py"
+	}
+}

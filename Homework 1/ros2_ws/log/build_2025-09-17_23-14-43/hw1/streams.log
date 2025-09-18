@@ -1,0 +1,18 @@
+[1.215s] Invoking command in '/home/jaylon132435/ros2_ws/build/hw1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaylon132435/ros2_ws/build/hw1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaylon132435/ros2_ws/build/hw1/build --no-deps symlink_data
+[1.673s] running develop
+[1.955s] running egg_info
+[1.980s] writing hw1.egg-info/PKG-INFO
+[1.980s] writing dependency_links to hw1.egg-info/dependency_links.txt
+[1.983s] writing entry points to hw1.egg-info/entry_points.txt
+[1.984s] writing requirements to hw1.egg-info/requires.txt
+[1.985s] writing top-level names to hw1.egg-info/top_level.txt
+[2.043s] reading manifest file 'hw1.egg-info/SOURCES.txt'
+[2.044s] writing manifest file 'hw1.egg-info/SOURCES.txt'
+[2.072s] running build_ext
+[2.072s] Creating /home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages/hw1.egg-link (link to .)
+[2.073s] Installing circle script to /home/jaylon132435/ros2_ws/install/hw1/lib/hw1
+[2.073s] Installing listener script to /home/jaylon132435/ros2_ws/install/hw1/lib/hw1
+[2.073s] 
+[2.073s] Installed /home/jaylon132435/ros2_ws/build/hw1
+[2.073s] running symlink_data
+[2.168s] Invoked command in '/home/jaylon132435/ros2_ws/build/hw1' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jaylon132435/ros2_ws/build/hw1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jaylon132435/ros2_ws/install/hw1/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jaylon132435/ros2_ws/build/hw1/build --no-deps symlink_data

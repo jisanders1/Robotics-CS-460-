@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: hw1
+Version: 0.0.0
+Summary: Homework 1: Jaylon's Publisher and Turtlesim
+Maintainer: Jaylon Sanders
+Maintainer-email: jisanders1@crimson.ua.edu
+License: Apache-2.0
+Provides-Extra: test
