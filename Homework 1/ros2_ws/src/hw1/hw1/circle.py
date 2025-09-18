@@ -41,7 +41,7 @@ def main(args=None):
         with rclpy.init(args=args):
             circle_controller = CircleController()
             rclpy.spin(circle_controller) # Starts turtle
-    except (KeyboardInterrupt, ExternalShutdownException):
+    except (KeyboardInterrupt):
         circle_controller.destroy_node()
         rclpy.shutdown()
 
